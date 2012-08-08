@@ -1,4 +1,4 @@
-package com.redhat.jboss.portal.filter;
+package org.jboss.portal.filter.audit;
 
 /**
  * Logs the {@link PortletAuditEntity}.
